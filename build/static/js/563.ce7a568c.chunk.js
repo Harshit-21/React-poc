@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpoc=self.webpackChunkpoc||[]).push([[563],{563:function(n,e,t){t.r(e);var c=t(791),r=t(436),s=t(184);e.default=function(){return(0,s.jsx)(c.Fragment,{children:(0,s.jsx)(r.Z,{children:"This is styled component1"})})}},436:function(n,e,t){var c,r=t(168),s=t(751).ZP.h1(c||(c=(0,r.Z)(["\nfont-size: 1.5em;\ntext-align: center;\ncolor: green;\n"])));e.Z=s}}]);
+//# sourceMappingURL=563.ce7a568c.chunk.js.map
